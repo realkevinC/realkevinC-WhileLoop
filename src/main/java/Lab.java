@@ -38,7 +38,7 @@ public class Lab {
 
         while(i<end){
             sum = sum + i;
-            i = i + 1;
+            i = i + 1; 
         }
       
 
